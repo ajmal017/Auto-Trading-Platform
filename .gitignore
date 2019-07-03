@@ -1,0 +1,11 @@
+tags
+*.pdf
+*.pptx
+.idea/
+.DS_Store
+__pycache__/*
+log/*
+*.log
+log.*
+core
+*.xml
